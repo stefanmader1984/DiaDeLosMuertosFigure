@@ -23,11 +23,19 @@ The project uses:
 
 - a servo wire for the jaw (see picture for details)
 
+3d files available here:
+https://www.printables.com/model/1516431-dia-de-los-muertos-figure
+
+Video of the complete Figure:
+https://www.youtube.com/shorts/JMd3tTE_Z7w
 
 Videos of tests:
 https://www.youtube.com/shorts/vWeSPoMvYfo
+
 https://www.youtube.com/shorts/m5MErXZtvM8
+
 https://www.youtube.com/shorts/K6VdzxC4PeU
+
 
 
 Assembly video:
